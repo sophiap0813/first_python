@@ -1,0 +1,10 @@
+print (1+9)
+print( 90-8)
+print(9*5)
+print(100/20)
+print(13/5)
+print(13//5)
+print(13%5)
+num = 9
+print(num + 100)
+print('안녕'+'하세요')
